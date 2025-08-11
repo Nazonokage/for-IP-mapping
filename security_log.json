@@ -1,0 +1,5 @@
+{"timestamp": "2025-08-11T20:38:48.986423", "ip": "127.0.0.1", "reason": "High request rate: 135/min", "connections": 45}
+{"timestamp": "2025-08-11T20:39:09.539262", "ip": "127.0.0.1", "reason": "High request rate: 147/min", "connections": 49}
+{"timestamp": "2025-08-11T20:39:40.626173", "ip": "57.144.184.141", "reason": "High request rate: 102/min", "connections": 3}
+{"timestamp": "2025-08-11T20:39:57.676978", "ip": "13.107.246.73", "reason": "High request rate: 102/min", "connections": 2}
+{"timestamp": "2025-08-11T20:39:57.678956", "ip": "172.64.155.209", "reason": "High request rate: 102/min", "connections": 2}
